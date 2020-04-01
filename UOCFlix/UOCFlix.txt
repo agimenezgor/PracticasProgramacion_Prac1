@@ -1,0 +1,1 @@
+./Debug/src_view.c.o ./Debug/src_series.c.o ./Debug/src_user.c.o ./Debug/src_film.c.o
